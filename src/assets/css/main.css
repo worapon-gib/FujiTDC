@@ -1,0 +1,31 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+
+#app {
+    font-family: "Prompt", sans-serif !important;
+}
+.v-application p,
+.v-application h1,
+.v-application h2,
+.v-application h3,
+.v-application h4,
+.v-application h5,
+.v-application h6 {
+    font-family: "Prompt", sans-serif !important;
+/* font-style: normal !important;
+font-weight: 500 !important;
+line-height: 22px !important;
+letter-spacing: 0em !important;
+text-align: left !important; */
+}
+.height_table_manage_data {
+    height: 600px;
+    overflow: scroll;
+}
+.bg_login {
+    background-image: url("../img/backgroundlogin.png") !important;
+
+    background-position: center !important;
+    background-size: cover !important;
+  }
+  .pointer {cursor: pointer;}
